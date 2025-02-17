@@ -1,0 +1,37 @@
+/* Estilos para todo el documento */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #4CAF50;  /* Verde */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para los enlaces */
+a {
+    color: #4CAF50;  /* Verde */
+    text-decoration: none;  /* Eliminar el subrayado */
+}
+
+a:hover {
+    text-decoration: underline;  /* Subrayar cuando pasas el cursor por encima */
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
